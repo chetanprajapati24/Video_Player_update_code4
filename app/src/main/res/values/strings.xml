@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="all_video">Allvideos</string>
+    <string name="all_folder">Allfolders</string>
+
+    <string name="total_video">totalvideo:</string>
+    <string name="total_folder">totalfolder:</string>
+
+
+    <!-- > String for Top NAvigation-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="feedback">Feedback</string>
+    <string name="themes">Themes</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+    <string name="nav_text">Welcome to VideoPlayer</string>
+
+    <string name="image">Image</string>
+
+    <string name="video_name">Video Name</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="duration">00:00</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/videoview"
+        android:title="@string/all_video"
+        android:icon="@drawable/all_video_icon"></item>
+
+
+    <item android:id="@+id/folderview"
+        android:title="@string/all_folder"
+        android:icon="@drawable/all_folder_icon"></item>
+</menu>
